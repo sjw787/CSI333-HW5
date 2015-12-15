@@ -12,4 +12,4 @@ When the user uses decompress mode the program will undo the compression that wa
 After running these two commands in this order out.txt will contain the compressed version of the in.txt file and out2.txt will be
 identical to the in.txt file. You can see for yourself by running 'diff in.txt out.txt' to see if there are any differences in the two
 files. 
-All test files (in.txt, out.txt and out2.txt) are provided
+All test files (in.txt, out.txt and out2.txt) are provided.
